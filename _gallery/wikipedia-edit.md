@@ -1,8 +1,9 @@
 ---
-author: epidrome
-image_url: /images/wikipedia-edit.png
-caption: Η εύκολη και καθολική συμμετοχή των χρηστών στη δημιουργία και ενημέρωση του περιεχομένου γίνεται με τη βοήθεια λογισμικού τύπου wiki, το οποίο επιτρέπει την επιτόπου επεξεργασία ενός άρθρου μέσα στο λογισμικό περιηγητή του χρήστη.
-title: wikipedia-edit
-categories:
-  - synthesis
+author: p17gera1
+title: wikipedia
+image_url: /images/wikipedia.png
+caption: Η Βικιπαίδεια (αγγλικά: Wikipedia, γουικιπίντια) είναι διεθνής, παγκόσμια, ψηφιακή, διαδικτυακή, ελεύθερου περιεχομένου, εγκυκλοπαίδια, που βασίζεται σε ένα μοντέλο ανοικτό στη σύνταξη του περιεχομένου της.
+license_url:https://el.wikipedia.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CE%B9%CE%B1 
+categories: 
+  -Wikipedia
 ---
